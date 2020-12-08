@@ -25,3 +25,13 @@ Redux Store Setup
 Redux Reducers & Actions
 Redux Firebase/ Firestore Integration
 
+
+In het Nederlands
+React (ook wel React.js of ReactJS genoemd) is een Javascriptbibliotheek om gebruikersinterfaces mee te bouwen.
+
+React werd in 2011 door Facebook ontwikkeld vanuit de behoefte om de code van grote webapplicaties beter beheersbaar te maken. 
+Het was in eerste instantie een intern project en werd gebruikt voor het Facebook- en Instagramplatform.
+In 2013 introduceerde Facebook React aan het publiek en maakte er een opensourceproject van.
+Sindsdien groeit het gebruik van React en wordt de bibliotheek door meer dan één miljoen websites gebruikt, waaronder grote namen als Netflix en Uber.
+React wordt op GitHub onderhouden door Facebook en een community van individuele ontwikkelaars en bedrijven.
+
